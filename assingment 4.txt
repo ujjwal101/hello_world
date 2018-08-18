@@ -1,0 +1,27 @@
+'''1.
+print ('Ujjwal Agnihotri')
+2.
+x='Home'
+y='Work'
+print (x+y)
+3.
+print ('Value for first variable')
+c=input()
+print ('Value for second variable')
+d=input()
+print ('Value for third variable')
+e=input()
+print ('Value for first variable is'+c)
+print ('Value for second variable is'+d)
+print ('Value for third variable is'+e)
+4.
+print ("Let's get started")
+5.
+s='Acadview'
+course='Python'
+Fees=5000
+print('%s Teaches %s cousre for RS. %d'%(s,course,fees))'''
+6.
+name='Tony Stark'
+salary=70000
+print('%s"%s')%(name,salary)
